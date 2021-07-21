@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-[demo](https://github.com/wakakaStacy/wakakaStacy.github.io/blob/main/%E5%AD%A6%E7%A7%91%E5%8F%91%E6%96%87%E9%87%8F%E5%92%8C%E4%B8%8B%E8%BD%BD%E9%A2%91%E6%AC%A1%E6%AF%94%E4%BE%8B%E5%9B%BE%E7%A4%BA.html)
+[demo](https://github.com/wakakaStacy/wakakaStacy.github.io/学科发文量和下载频次比例图示.html)
 
 ```markdown
 Syntax highlighted code block
