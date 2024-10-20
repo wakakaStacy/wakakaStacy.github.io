@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://www.shuyidong.com/sydong.jpg" class="floatpic" width="360" height="480">
+<img src="https://www.shuyidong.com/images/sydong.jpg" class="floatpic" width="360" height="480">
 
 Here is **Shuyi Dong (Stacy, 董姝仪)**.<br>
 
