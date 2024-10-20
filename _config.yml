@@ -3,14 +3,14 @@ title: ShuYi Dong
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
 # url: shuyidong.com
-url: https://shuyidong.com/
+url: https://www.shuyidong.com/
 # Owner/author information
 owner:
   name: Shuyi Dong
   avatar: sydong.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: sydong@smail.nju.edu.cn
-  cv: https://shuyidong.com/file/ShuyiDong_CV_NJU.pdf
+  cv: https://www.shuyidong.com/file/ShuyiDong_CV_NJU.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   github: wakakaStacy
