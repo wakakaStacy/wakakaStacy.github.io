@@ -13,13 +13,13 @@ Hi there! I'm Shuyi Dong (董姝仪), a third-year master's student majoring in 
 ---
 
 ## Education and Experience
-**Decemeber 2024:** Ready to go to the wise/CIST conference 
-**February 2024:** Engaged as a full-time Research Assistant at the Center of Digitalization under the guidance of Prof. Tianshu Sun at CKGSB.
-**January 2024:** My first-authored paper was accepted by Information Processing & Management!
-**August 2023:** Presented a poster at ASIS&T in London, co-authored with Prof. Jin Mao (WHU), Prof. Lei Pei (NJU), and Prof. Ke Qin (CityU). The experience has been an incredible start to my academic journey.
-**June 2021:** Contributed to a Chinese Core journal publication on a multi-source big data-driven personalized recommendation system for mobile libraries.
-**2020:** Led a National Undergraduate Innovation Project on the science of science, focusing on latent scholar communication networks, compiling lecture data from top 211/985 schools.
-**2019:** Organized a field trip to Enshi, Hubei, to research e-commerce for SMEs in poverty-stricken areas, aiding local farmers in establishing e-commerce platforms. This project earned second prize in Wuhan University's Social Practice Competition—an incredibly rewarding journey!
+- **Decemeber 2024:** Ready to go to the wise/CIST conference.
+- **February 2024:** Engaged as a full-time Research Assistant at the Center of Digitalization under the guidance of Prof. Tianshu Sun at CKGSB.
+- **January 2024:** My first-authored paper was accepted by Information Processing & Management!
+- **August 2023:** Presented a poster at ASIS&T in London, co-authored with Prof. Jin Mao (WHU), Prof. Lei Pei (NJU), and Prof. Ke Qin (CityU). The experience has been an incredible start to my academic journey.
+- **June 2021:** Contributed to a Chinese Core journal publication on a multi-source big data-driven personalized recommendation system for mobile libraries.
+- **2020:** Led a National Undergraduate Innovation Project on the science of science, focusing on latent scholar communication networks, compiling lecture data from top 211/985 schools.
+- **2019:** Organized a field trip to Enshi, Hubei, to research e-commerce for SMEs in poverty-stricken areas, aiding local farmers in establishing e-commerce platforms. This project earned second prize in Wuhan University's Social Practice Competition—an incredibly rewarding journey!
 
 
 ---
