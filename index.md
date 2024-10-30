@@ -8,21 +8,19 @@ layout: page
 
 Here is **Shuyi Dong (Stacy, 董姝仪)**.<br>
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to NanJing,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI and SIGKDD Undergraduate Scholars**.<br>
-
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+Hi there! I'm Shuyi Dong (董姝仪), a third-year master's student majoring in Information Science at Nanjing University, gearing up to pursue a Ph.D. in Information Systems (IS) at a U.S. university starting in Fall 2025. I’m privileged to serve as a Research Assistant, advised by Prof. Tianshu Sun from the Cheung Kong Graduate School of Business, with close mentorship from Prof. Yan Leng, research fellow Wang Jin from the Stanford Digital Lab, and Prof. Zhao Jin at CKGSB.
 
 ---
 
-## Research Interests
+## Education and Experience
+**Decemeber 2024:** Ready to go to the wise/CIST conference
+**February 2024:** Engaged as a full-time Research Assistant at the Center of Digitalization under the guidance of Prof. Tianshu Sun at CKGSB.
+**January 2024:** My first-authored paper was accepted by Information Processing & Management!
+**August 2023:** Presented a poster at ASIS&T in London, co-authored with Prof. Jin Mao (WHU), Prof. Lei Pei (NJU), and Prof. Ke Qin (CityU). The experience has been an incredible start to my academic journey.
+**June 2021:** Contributed to a Chinese Core journal publication on a multi-source big data-driven personalized recommendation system for mobile libraries.
+**2020:** Led a National Undergraduate Innovation Project on the science of science, focusing on latent scholar communication networks, compiling lecture data from top 211/985 schools.
+**2019:** Organized a field trip to Enshi, Hubei, to research e-commerce for SMEs in poverty-stricken areas, aiding local farmers in establishing e-commerce platforms. This project earned second prize in Wuhan University's Social Practice Competition—an incredibly rewarding journey!
 
-**I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!**
-
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Cyber-Physical System
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ---
 
@@ -30,10 +28,10 @@ My current research focuses on practical problems that artificial intelligence f
 
 
 - **April 2024：**Our paper [Decoding the Writing Styles of Disciplines: A Large-Scale
-Quantitative Analysis](https://www.shuyidong.com/mypaper/DSY-IPM.jpg) has been accepted to [Information Processing & Management](https://www.sciencedirect.com/journal/information-processing-and-management).
-- **September 2023：**Our paper[Comparing the Writing Styles of Multiple Disciplines: A Large-Scale
+Quantitative Analysis](https://www.shuyidong.com/mypaper/DSY-IPM.pdf) has been accepted to [Information Processing & Management](https://www.sciencedirect.com/journal/information-processing-and-management).
+- **September 2023：**Our paper [Comparing the Writing Styles of Multiple Disciplines: A Large-Scale
 Quantitative Analysis](https://www.shuyidong.com/mypaper/ASIST_Poster_sydong.pdf) has been accepted to [Proceedings of the Association for Information Science and Technology](https://www.proceedings.com/association-for-information-science-and-technology-asis-t/)
-- **2021: **Our paper[Design and Implementation of a Mobile Library Personalized
+- **2021：**Our paper [Design and Implementation of a Mobile Library Personalized
 Recommendation System Driven by Multi-Source Big Data] has been accepted to [Research on Library Science (Chinese Core)]
 
 
