@@ -13,7 +13,7 @@ Hi there! I'm Shuyi Dong (董姝仪), a third-year master's student majoring in 
 ---
 
 ## Education and Experience
-**Decemeber 2024:** Ready to go to the wise/CIST conference
+**Decemeber 2024:** Ready to go to the wise/CIST conference 
 **February 2024:** Engaged as a full-time Research Assistant at the Center of Digitalization under the guidance of Prof. Tianshu Sun at CKGSB.
 **January 2024:** My first-authored paper was accepted by Information Processing & Management!
 **August 2023:** Presented a poster at ASIS&T in London, co-authored with Prof. Jin Mao (WHU), Prof. Lei Pei (NJU), and Prof. Ke Qin (CityU). The experience has been an incredible start to my academic journey.
