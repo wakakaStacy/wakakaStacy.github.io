@@ -7,7 +7,7 @@ url: https://www.shuyidong.com/
 # Owner/author information
 owner:
   name: Shuyi Dong
-  avatar: sydong.jpg
+  avatar: sydong2.jpg
   # avatar: dsy_xiaoyang.png
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: sydong@smail.nju.edu.cn
@@ -42,7 +42,7 @@ links:
   - title: Publications
     url: /publications/
   - title: Projects
-    url: projects
+    url: /projects/
   - title: Awards
     url: /awards/
   - title: CV

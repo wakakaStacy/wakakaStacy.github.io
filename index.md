@@ -6,8 +6,6 @@ layout: page
 
 <img src="https://www.shuyidong.com/images/sydong.jpg" class="floatpic" width="360" height="480">
 
-Here is **Shuyi Dong (Stacy, 董姝仪)**.<br>
-
 Hi there! I'm Shuyi Dong (董姝仪), a third-year master's student majoring in Information Science at Nanjing University, gearing up to pursue a Ph.D. in Information Systems (IS) at a U.S. university starting in Fall 2025. I'm privileged to serve as a Research Assistant, advised by Prof. Tianshu Sun from the Cheung Kong Graduate School of Business, with close mentorship from Prof. Yan Leng, research fellow Wang Jin from the Stanford Digital Lab, and Prof. Zhao Jin at CKGSB.
 
 ---
@@ -27,7 +25,7 @@ Hi there! I'm Shuyi Dong (董姝仪), a third-year master's student majoring in 
 ## News and Updates
 
 - **Decemeber 2024:** Ready to go to the WISE/CIST conference.
-Our paper "AI Investment and Firm Performance: Insights from China" has been uploaded to SSRN.
+- **Decemeber 2024:** Our paper "AI Investment and Firm Performance: Insights from China" has been uploaded to SSRN(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5055518).
 - **April 2024：**Our paper [Decoding the Writing Styles of Disciplines: A Large-Scale
 Quantitative Analysis](https://www.shuyidong.com/mypaper/DSY-IPM.pdf) has been accepted to [Information Processing & Management](https://www.sciencedirect.com/journal/information-processing-and-management).
 - **September 2023：**Our paper [Comparing the Writing Styles of Multiple Disciplines: A Large-Scale
