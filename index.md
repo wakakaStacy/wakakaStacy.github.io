@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://www.shuyidong.com/images/sydong.jpg" class="floatpic" width="360" height="480">
+<!-- <img src="https://www.shuyidong.com/images/sydong.jpg" class="floatpic" width="360" height="480"> -->
 
 Hi there! I'm Shuyi Dong (董姝仪), a third-year master's student majoring in Information Science at Nanjing University, gearing up to pursue a Ph.D. in Information Systems (IS) at a U.S. university starting in Fall 2025. I'm privileged to serve as a Research Assistant, advised by Prof. Tianshu Sun from the Cheung Kong Graduate School of Business, with close mentorship from Prof. Yan Leng, research fellow Wang Jin from the Stanford Digital Lab, and Prof. Zhao Jin at CKGSB.
 
